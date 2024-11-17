@@ -1,0 +1,254 @@
+body{
+    background-color: bisque;
+}
+
+.pag1-descriere{
+    margin: 5%;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: khaki;
+}
+
+.pag1-inf{
+    margin: 5%;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: khaki;
+}
+
+.pag1-footer{
+    margin: 5%;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: darkgray;
+}
+
+.pag2-descriere{
+    margin: 5%;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: khaki;
+}
+
+.pag2-inf{
+    margin: 5%;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: khaki;
+}
+
+.pag2-footer{
+    margin: 5%;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: darkgray;
+}
+
+.pag3-descriere{
+    margin: 5%;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: khaki;
+}
+
+.pag3-inf{
+    margin: 5%;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: khaki;
+}
+
+.pag3-footer{
+    margin: 5%;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: darkgray;
+}
+
+.nume1{
+    margin-left: 570px;
+}
+
+.nume2{
+    margin-left: 580px;
+}
+
+.nume3{
+    margin-left: 540px;
+}
+
+.email1{
+    margin-left: 530px;
+}
+
+.email2{
+    margin-left: 543px;
+}
+
+.email3{
+    margin-left: 525px;
+}
+
+p{
+    color:maroon;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.table1{
+    border-style: double;
+    border-color: black;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 390px;
+}
+
+.table2{
+    border-style: double;
+    border-color: black;
+    font-size: medium;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 470px;
+}
+
+.table3{
+    border-style: double;
+    border-color: black;
+    font-size: medium;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 400px;
+}
+
+.discipline1{
+    margin-left: 510px;
+}
+
+.discipline2{
+    margin-left: 510px;
+}
+
+.discipline3{
+    margin-left: 510px;
+}
+
+.citat1{
+    margin-left: 470px;
+}
+
+.citat2{
+    margin-left: 500px;
+}
+
+.citat3{
+    margin-left: 370px
+}
+
+.hobbyuri1{
+    margin-left: 510px;
+}
+
+.hobbyuri2{
+    margin-left: 510px;
+}
+
+.hobbyuri3{
+    margin-left: 510px;
+}
+
+.lista1{
+    margin-left: 590px;
+    margin-right: 540px;
+    padding-left: 30px;
+    border-style: dotted;
+    border-color: black;
+    color: maroon;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.lista2{
+    margin-left: 590px;
+    margin-right: 540px;
+    padding-left: 30px;
+    border-style: dotted;
+    border-color: black;
+    color: maroon;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.lista3{
+    margin-left: 590px;
+    margin-right: 540px;
+    padding-left: 30px;
+    border-style: dotted;
+    border-color: black;
+    color: maroon;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.img1{
+    margin-left: 480px;
+    border-radius: 50%;
+    max-width: 350px;
+    max-height: 350px;
+}
+
+.img2{
+    margin-left: 550px;
+    border-radius: 50%;
+    max-height: 350px;
+}
+
+.img3{
+    margin-left: 530px;
+    border-radius: 50%;
+    max-height: 350px;
+}
+
+.link-cuprins{
+    font-size: 20px;
+    margin-left: 630px;
+}
+
+.pagini{
+    font-size: 20px;
+    margin-left: 613px;
+}
+
+.grupa{
+    margin-top: 10%;
+    color: maroon;
+    margin-left: 635px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 5%;
+}
+
+.p1{
+    margin-left: 670px;
+}
+
+.p2{
+    margin-left: 685px;
+}
+
+.p3{
+    margin-left: 640px;
+}
+
+.utcn-logo{
+    margin-top: 4%;
+    margin-left: 556px;
+    border-radius: 50%;
+    max-height: 350px;
+}
